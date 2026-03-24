@@ -18,3 +18,7 @@ Estrutura de Arquivos
 ## Principais Conclusões
 - O modelo Random Forest com `class_weight='balanced'` obteve um Recall de 65% para atrasos.
 - Identificamos 3 clusters principais de aeroportos baseados em volume e eficiência.
+
+- ## Observação - Flights:
+- Dado que o arquivo flights.csv excede a capacidade de hospedagem do github, segue link para download da base:
+- https://drive.google.com/file/d/1pBlOhZxXzb1ybAc9hDCi9OX0hOFI8X0z/view?usp=sharing
